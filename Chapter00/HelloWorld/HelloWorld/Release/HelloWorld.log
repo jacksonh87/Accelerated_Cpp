@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  HelloWorld.cpp
+  Generating code
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  HelloWorld.vcxproj -> C:\Users\jacks\OneDrive\Documents\C++\Chapter00\HelloWorld\Release\HelloWorld.exe
+  HelloWorld.vcxproj -> C:\Users\jacks\OneDrive\Documents\C++\Chapter00\HelloWorld\Release\HelloWorld.pdb (Full PDB)
